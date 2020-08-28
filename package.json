@@ -27,11 +27,12 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.4",
-    "save": "^2.4.0"
+    "save": "^2.4.0",
+    "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
     "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
-  
+    "webpack-cli": "^3.3.12",
+    "webpack-merge": "^5.1.2"
   }
 }
